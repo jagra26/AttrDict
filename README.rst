@@ -1,3 +1,13 @@
+============
+Fork mission
+============
+This fork updates the original code to run in python 3.10. That is done to operate [pageview-api](https://github.com/Commonists/pageview-api) module in python 3.10. 
+But theoretically, any library that uses AttrDict can operate on this version now. 
+
+To install use::
+
+  pip install git+https://github.com/jagra26/AttrDict.git
+
 ========
 AttrDict
 ========
